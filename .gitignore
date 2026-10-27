@@ -1,0 +1,15 @@
+.venv/
+.venv-sense/
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.log
+.DS_Store
+Thumbs.db
+models/SenseVoiceSmall/
+models/faster-whisper*/
+frontend/dist/
+frontend/node_modules/
+*.tar.gz
